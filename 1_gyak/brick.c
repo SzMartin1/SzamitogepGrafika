@@ -14,7 +14,7 @@ void has_square_in_it(const Brick* brick);
 
 int main() {
     Brick brick;
-    set_size(&brick,3,10,4);
+    set_size(&brick,7,9,12);
     double volume;
     volume = calc_volume(&brick);
     double surface;
