@@ -3,5 +3,5 @@ A számítógépi grafika tantárgy gyakorlati anyagait fogom ide feltölteni.
 
 Valamint
 
-#Beadandó
+# Beadandó
 A számítógépi grafika tantárgy beadandó feladatát is ide fogom feltölteni.
